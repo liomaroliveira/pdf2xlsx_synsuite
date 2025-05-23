@@ -1,0 +1,18 @@
+# Ignora arquivos
+__pycache__/
+*.pyc
+
+# Ignora pastas do VS Code
+.vscode/
+
+# Ignora arquivos temporários
+*.log
+*.tmp
+.env
+
+# Ignora arquivos específicos
+prompts.txt
+readme.pdf
+pdf_example_private.pdf
+pdf_example_private.pdf.txt
+/old_files
