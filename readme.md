@@ -26,7 +26,7 @@ Uma aplicação com interface gráfica para extrair tarefas e relatos de arquivo
 
 Certifique-se de ter o **Python 3.7+** instalado.
 
-⚙️ Tecnologias usadas
+⚙️ Tecnologias usadas:
 pdfplumber
 pandas
 openpyxl
